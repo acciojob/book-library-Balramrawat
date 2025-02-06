@@ -15,11 +15,10 @@ body {
   font-size: 2rem;
   font-weight: bold;
   height: 50px;
-  background-color: #ffffff;
+  /* background-color: #ffffff; */
 }
 .book {
-  background-color: #ffffff;
-  /* padding-left: 15px; */
+  background-color: rgb(255, 255, 255);
   margin-top: 20px;
   border-radius: 8px;
   width: 100vw;
@@ -30,7 +29,9 @@ body {
   margin: auto;
 }
 .book-title {
+	/* color:black; */
   font-weight: bold;
+	background-color:rgb(255, 255, 255);
 }
 .author {
   color: #777777;
