@@ -18,7 +18,7 @@ body {
   /* background-color: #ffffff; */
 }
 .book {
-  /* background-color: rgb(255, 255, 255); */
+ /* color: rgb(255, 255, 255); */
   margin-top: 20px;
   border-radius: 8px;
   width: 100vw;
@@ -29,9 +29,9 @@ body {
   margin: auto;
 }
 .book-title {
-	/* color:#ffffff; */
-	  font-weight: bold;
-	background-color:rgb(255, 255, 255);
+  color: #ffffff; /* White color */
+  font-weight: bold;
+  background-color: rgb(255, 255, 255);
 }
 .author {
   color: #777777;
