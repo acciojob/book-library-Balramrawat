@@ -29,7 +29,7 @@ body {
   margin: auto;
 }
 .book-title {
-	/* color:black; */
+	color:#ffffff;
   font-weight: bold;
 	background-color:rgb(255, 255, 255);
 }
